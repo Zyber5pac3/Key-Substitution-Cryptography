@@ -2,6 +2,9 @@ Key-Substitution-Cryptography
 =============================
 
 Project in python 3.4 and Java 7 to encrypt/ decrypt Strings
+
+PLEASE OPEN THE README FILE IN RAW MODE
+
 Algorithm:
 
 INDEX:
