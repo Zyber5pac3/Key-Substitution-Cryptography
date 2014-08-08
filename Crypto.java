@@ -1,7 +1,7 @@
 public class Crypto{
 
 	/*
-	 * Copyright 2013, 2014 Zubair Abid
+	 * Copyright 2014 Zubair Abid
 
      *This program is free software: you can redistribute it and/or modify
      *it under the terms of the GNU General Public License as published by
